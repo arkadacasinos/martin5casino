@@ -9,6 +9,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="5d365900fa406dee" />
         <title>Мартин Казино — официальный сайт, рабочее зеркало и игра онлайн | Martin Casino</title>
         <meta
           name="description"
